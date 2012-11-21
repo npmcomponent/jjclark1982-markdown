@@ -6,8 +6,7 @@
     "markdown",
     "parser",
     "text",
-    "filter",
-    "sanitize input"
+    "filter"
   ],
   "dependencies": {},
   "development": {},
